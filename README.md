@@ -1,14 +1,14 @@
 # 康熙字典數據集 KangXi Dictionary
 Excel 檔案欄位包括字（繁體中文）、字（簡體中文）、對應的康熙字典路徑、部首、筆劃數及詳細解釋。
 
-##資料總量
+## 資料總量
 48710 筆
 
-##待辦事項
+## 待辦事項
 1. 加入 CSV 格式
 2. 加入 JSON 格式
 
-##MIT License
+## MIT License
 
 Copyright (c) 2021 Samson Hoi
 
